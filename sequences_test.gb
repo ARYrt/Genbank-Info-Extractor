@@ -1,0 +1,1381 @@
+LOCUS       MH746957                1032 bp    RNA     linear   VRL 20-SEP-2019
+DEFINITION  UNVERIFIED: Asian prunus virus 3 coat protein-like gene, partial
+            sequence.
+ACCESSION   MH746957
+VERSION     MH746957.1
+KEYWORDS    UNVERIFIED.
+SOURCE      Asian prunus virus 3
+  ORGANISM  Asian prunus virus 3
+            Viruses; Riboviria; Tymovirales; Betaflexiviridae; Quinvirinae;
+            Foveavirus; unclassified Foveavirus.
+REFERENCE   1  (bases 1 to 1032)
+  AUTHORS   Chen,Y., Sun,P., Li,M., Zhao,M. and Li,Z.
+  TITLE     First report of APV1 and APV3 from apricot in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1032)
+  AUTHORS   Chen,Y., Sun,P., Li,M., Zhao,M. and Li,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2018) Inner Mongolia Agricultural University,
+            College of Agronomy, 306 Zhaowuda Road, Saihan District, Huhhot,
+            Inner Mongolia 010000, China
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1032
+                     /organism="Asian prunus virus 3"
+                     /mol_type="genomic RNA"
+                     /host="apricot"
+                     /db_xref="taxon:351428"
+                     /country="China"
+                     /collection_date="10-May-2018"
+     misc_feature    65..>1032
+                     /note="similar to coat protein"
+ORIGIN      
+        1 tcactttagt taggttgagt gtaggtttat tgaaataata gattacttgc ttcaagattt
+       61 taggatgaca acttctgaaa gggctgccac tacagatgtc gagagcacca ctgtccagac
+      121 agcttcgacc attgctccgg caagcatacc tgctacacag caggtcactc taccgggatc
+      181 tttaactgag gccgctacag ctgcgccgac aacaacttcc acgtttcaga gggttgagga
+      241 ccctttcaga tcaagaccta gtttcactct accgtctctg actggagggt tgggaactct
+      301 gagctcgaca gcaaccactg cagccacatc aaccacctct gagacaaggc catcgacctt
+      361 tgaaggatgg cgggagaaac tgaagaataa agacgatatg gcccttcctc gctctgaaat
+      421 tgaaagtctg ggccagtttg aagctggggg aggatcaaac gaaggaagga gtgttatgag
+      481 ggttcatggg gtctctccaa gtacaatggt gtatgaagga aaggtagaga ctggagattc
+      541 tgacttcaat actactggag ttagtttggg atctagacag aggatggtct ttgaagccgc
+      601 ctgaaggagg gctcagtcaa acattgaggc tgatagggac agcatggctc ctccttttgc
+      661 ctccggggac cctttttcaa ggcccaaggt gcaggatgtt cagaggtttt catatgagcc
+      721 cagctcgcca gatgttgcaa ctgctgaaaa catagagtac atacgggctg acctagtgag
+      781 agccggtgtt cctctgaagg atataacctt tgccatgtgg gacatagcac gtcactgcgc
+      841 tgatgctgga tcatcagaat ccactgaatt tatcggcacc agcagttatg ggggtagagt
+      901 tgctaggatg gaaattgcag caattatcaa aaagcacact acactcagaa ggttttgcgg
+      961 gttctacgct aaaattgtat ggaacatcat gcttgtaact aacataccac catctgggtg
+     1021 gatgaagaga gg
+//
+
+LOCUS       MH746955                1031 bp    RNA     linear   VRL 20-SEP-2019
+DEFINITION  UNVERIFIED: Asian prunus virus 3 coat protein-like gene, partial
+            sequence.
+ACCESSION   MH746955
+VERSION     MH746955.1
+KEYWORDS    UNVERIFIED.
+SOURCE      Asian prunus virus 3
+  ORGANISM  Asian prunus virus 3
+            Viruses; Riboviria; Tymovirales; Betaflexiviridae; Quinvirinae;
+            Foveavirus; unclassified Foveavirus.
+REFERENCE   1  (bases 1 to 1031)
+  AUTHORS   Chen,Y., Sun,P., Li,M., Zhao,M. and Li,Z.
+  TITLE     First report of APV1 and APV3 from apricot in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1031)
+  AUTHORS   Chen,Y., Sun,P., Li,M., Zhao,M. and Li,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2018) Inner Mongolia Agricultural University,
+            College of Agronomy, 306 Zhaowuda Road, Saihan District, Huhhot,
+            Inner Mongolia 010000, China
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1031
+                     /organism="Asian prunus virus 3"
+                     /mol_type="genomic RNA"
+                     /host="apricot"
+                     /db_xref="taxon:351428"
+                     /country="China"
+                     /collection_date="10-May-2018"
+     misc_feature    65..>1031
+                     /note="similar to coat protein"
+ORIGIN      
+        1 tcactttagt taggttgagt gtaggtttat tgaaataata gattacttgc ttcaaggttt
+       61 taggatgaca acttctgaag gggctgccac tacagatgtc gagagcacca ctgtccagac
+      121 agcttcgacc attgctccgg caagcatacc tgctacacag caggtcactc taccgggatc
+      181 tttaactgag gccgctacag ctgcgccgac aacaacttcc acgtttcaga gggttgagga
+      241 ccctttcaga tcaagaccta gtttcactct accgtctctg actggagggt tgggaactct
+      301 gagctcgaca gcaaccactg cagccacatc aaccacctct gagacaaggc catcgacctt
+      361 tgaaggatgg cgggagaaac tgaagaataa agacgatatg gcccttcctc gctctgagat
+      421 tgaaagtctg ggccagtttg aagctggggg aggatcaaac gaaggaagga gtgttatgag
+      481 ggttcatggg gtctctccaa gtacaatggt gtatgaagga aaggtagaga ctggagattc
+      541 tgacttcaat actactggag ttagtttggg atctagacag aggatggtct ttgaagccgc
+      601 ccgaaggagg gctcagtcaa acattgaggc tgatagggac agcatggctc ctccttttgc
+      661 ctccggggac cctttttcaa ggcccaaggt gcaggatgtt cagaggtttt catatgagcc
+      721 cagctcgcca gatgctgcaa ctgctgaaaa catagagtac atacgggctg acctagtgag
+      781 agccggtgtt cctctgaagg atataacctt tgccatgtgg gacatagcac gttactgcgc
+      841 tgatgctgga tcatcagaat ccactgaatt atcggcacca gcagttatgg gggtagagtt
+      901 gctaggatgg aaattgcagc aattatcaaa aagcacacta cactcagaag gttttgcggg
+      961 ttctacgcta aaattgtatg gaacatcatg cttgtaacta acataccacc atctgggtgg
+     1021 atgaagagag g
+//
+
+LOCUS       MH476301                3207 bp    DNA     circular VRL 09-SEP-2019
+DEFINITION  UNVERIFIED: Grapevine red blotch virus isolate NSRB8, complete
+            genome.
+ACCESSION   MH476301
+VERSION     MH476301.1
+KEYWORDS    UNVERIFIED.
+SOURCE      Grapevine red blotch virus
+  ORGANISM  Grapevine red blotch virus
+            Viruses; Geminiviridae; Grablovirus.
+REFERENCE   1  (bases 1 to 3207)
+  AUTHORS   Poojari,S., Moreau,D.L., Kahl,D., Lowery,T.D. and Urbez Torres,J.R.
+  TITLE     Disease incidence and genetic variability of grapevine viruses
+            under cool-climate conditions of Nova Scotia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3207)
+  AUTHORS   Poojari,S., Moreau,D.L., Kahl,D., Lowery,T.D. and Urbez Torres,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2018) Plant Pathology, Summerland Research and
+            Development Centre and Kentville Research and Development Centre,
+            Hy 97, Summerland, British Columbia V0H1Z0, Canada
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3207
+                     /organism="Grapevine red blotch virus"
+                     /mol_type="genomic DNA"
+                     /isolate="NSRB8"
+                     /host="Vitis vinifera cv. Pinot Noir"
+                     /db_xref="taxon:1381007"
+                     /country="Canada"
+                     /collection_date="20-Sep-2016"
+     gene            290..805
+                     /gene="V2"
+     CDS             290..805
+                     /gene="V2"
+                     /codon_start=1
+                     /product="V2 protein"
+                     /protein_id="QEL53151.1"
+                     /translation="MGTLNKRNRVFPDRDSCSSSESSLNDIDICGDVDALGDEALDAG
+                     SVYSSSQKLLVSVAKDVLLDDCDATVLDISLPSALWFLSQRYLTCCLRKELLPLPGIS
+                     ERQTVLLRQLTRRVARRHCLFTYKCEEWFEGCLKIKEDGTEKKEPPTEAEKKAQSDWE
+                     EFCRKAACSAX"
+     gene            708..1379
+                     /gene="V1"
+     CDS             708..1379
+                     /gene="V1"
+                     /codon_start=1
+                     /product="V1 protein"
+                     /protein_id="QEL53152.1"
+                     /translation="MVLKKRSRQRKQRRRRKATGRSSAGRRRARPRSRPCQFAFXGNS
+                     FGGTPSLFFLTPIALGTGAEDRTGPVLTVSSMYLKGVVLPTDNVTDGLHDIYFWIILD
+                     RFPTGTDPSVSDIFTGSDNSGSMIETLTRNRLNRKRFRILGSKKLVVGVNKKPQESLP
+                     HSRAAFNIFQRRRLVVAFKNDXSGGGRNDVERNRIYLSAASASGHTFRLYLNGIVNFY
+                     NGVIF"
+     gene            1409..1735
+                     /gene="V3"
+     misc_feature    1409..1735
+                     /gene="V3"
+                     /note="similar to V3 protein"
+     misc_feature    complement(1898..2257)
+                     /note="similar to C2 protein"
+     gene            complement(2254..3045)
+                     /gene="C1"
+     CDS             complement(2254..3045)
+                     /gene="C1"
+                     /codon_start=1
+                     /product="C1 protein"
+                     /protein_id="QEL53153.1"
+                     /translation="MASSSSFNLRSKNFFLTYPQCPVHKQXALDLFKSKFSKTLDYAL
+                     IAEEKHQDGEPHLHALLIFKKRQAIRNPKHFDITISSHSYHPNITKPRDVTDVLNYVG
+                     KDGDTVEFGTKPTLKPKRQSRELDFGEYLRVANSKEEFLQLVRNNYPYQYVLNLQRLE
+                     YFAAQTWPPAPAPHANQWTAWNNLPPEIHLWVQNELFVVRKDSARRNLGPGINNFLEQ
+                     ETKRVQHIIDDKLDTYYLDYVERIYNTDDELNNAGSDAPKEEEPW"
+     gene            complement(2409..2891)
+                     /gene="C3"
+     CDS             complement(2409..2891)
+                     /gene="C3"
+                     /codon_start=1
+                     /product="C3 protein"
+                     /protein_id="QEL53154.1"
+                     /translation="MASHTYTPCSSSKSDRLFVIQNTLTSPYRLIPTIQISQSPEMSP
+                     TCLTTSEKTGIPSNSEPNQLSNQNDNPENWILENICELQTPKKNSCNSSETITHTNTS
+                     SIYNDLNTLLLKHGLQHLPPMPTNGQLGITFHQKFISGSKMNSSWYVKIQPEETSDQE
+                     "
+ORIGIN      
+        1 actggcactt cccmtggtac gtggtattct tgcggagcaa gtttctcaac tttggtaaat
+       61 gcttctghtt ggttggcgag gtatctcggc tttttctttg tcggccactt gcgtaacttg
+      121 tacgcgaagc caggtggccg aatatatgct taaagttagg gtttwttttt aatggaggat
+      181 cgatgcgggt ggagacgcac tttggctgtg gtgctyattt ctctgtcagt attttggctg
+      241 ttgtactggt tagttttctt tgctcgtcgc atttgtaaga agaatcggaa tgggaacact
+      301 gaacaaacgt aatcgcgtct ttcctgaccg cgattcctgc agttctagtg aaagttctct
+      361 gaatgatatt gatatttgtg gtgatgttga tgcgttaggg gatgaggctt tagacgctgg
+      421 gtccgtttat tcgtcgtcac agaaactgtt agtttctgtg gctaaagatg ttctgttaga
+      481 tgactgtgat gcaacggtat tggatatatc gttgccttct gcgttatggt tcttgtcgca
+      541 aagatatttg acttgttgtc tgaggaaaga gcttctgcct ttgccaggta tatccgagag
+      601 acagactgtt ttattgcgtc aactgactag acgcgttgct cgacgtcatt gtttatttac
+      661 ttacaagtgc gaggagtggt tcgagggttg tttgaagata aaggaggatg gtactgaaaa
+      721 aaaggagccg ccaacggaag cagagaagaa ggcgcaaagc gactgggagg agttctgcag
+      781 gaaggcggcg tgctcggccw cgtagtaggc cttgtcagtt tgcatttyat gggaactctt
+      841 ttgggggtac cccttccctt ttttttttaa ctcccattgc tttagggact ggtgcggaag
+      901 acagaactgg tccagtattg actgtaagca gtatgtattt aaaaggtgtt gtgcttccga
+      961 cggacaatgt cacggatggg ttgcatgata tttatttttg gattatttta gatcggtttc
+     1021 ctactggaac cgatccttct gtgtctgaca tattcactgg tagtgataat agcggaagca
+     1081 tgattgagac attgacgagg aatcgtttga atcgtaagag atttcgtatt cttggttcga
+     1141 agaaacttgt tgttggtgtg aacaagaagc cgcaggagtc attgccgcat tcacgtgcag
+     1201 catttaatat ttttcaaaga cgtcgtctgg ttgttgcttt taaaaacgac rtgtctggtg
+     1261 gaggacggaa tgatgttgaa aggaatcgca tttatttaag tgcggcttct gcaagtggac
+     1321 atacgtttag attgtatcta aatggaattg taaattttta taatggagtt attttttaat
+     1381 agaccacgct gtttattatg gcgtgtgtat gatcaagttt ctgagtttgg attgtatgat
+     1441 ggtggtgaag atgttgatat cccccattgt tggggatgat gaaaatgatg aaatggttac
+     1501 aactgagtac ggtgaattcg ttaagacgtt gaagagacgt cgatctgagc gcggagaggt
+     1561 gacaaaaagt tacaagcgaa gaattgcatt gactgaacct gatggtagaa gaactgaagt
+     1621 tgaagaatta aaagattatt tgctagagga agattatgat aaacatagaa gacgtctgga
+     1681 cctggagcta ggctcaggtt tacacagtcc agacagtcgt tgtacagtaa tgtgaatgtt
+     1741 gtatttggat attcgaataa tagaatatgg tgcaggaatt tattcaaatt atggcgtaaa
+     1801 cactttgaaa taacacacac tccaatacca gataatcagg cacgattttc tatatgaaag
+     1861 aacccagccg cgaagcggct ggctgcccct ttatttatca gtacaacggt ccattgattt
+     1921 ttacaaaggt aatgttgtct tcagcccacg gcttgaatgw tgcattccaa ttggtgatgg
+     1981 cgtcgtagta agactgatct ggattacaaa gaacaatcga agggattcct cccttgattt
+     2041 tccgctttgg acgatatttt tcatttgcta tgtaattaga ttgacaacct aataaggctt
+     2101 ytttacaagg caaatactgg aatggtatat cgtcaataat attgtacaaa gcgtcatcta
+     2161 tgtatagact gaagtctact gattcacacc agtagttatg ttttcccaat gaaacagccc
+     2221 attgcgtctt ccctgtcttc gatggtcctt caatcaccag ggctcttcct ccttcggtgc
+     2281 gtctgatcct gcattgttga gttcatcgtc agtattatat attctctcga cataatccaa
+     2341 gtartacgtg tctagcttgt cgtctatgat atgctggaca cgtttggttt cttgttccag
+     2401 gaaattgttt attcctggtc cgaggtttct tctggctgaa tctttacgta ccacgaagag
+     2461 ttcattttgg acccagagat gaatttctgg tggaaggtta ttccaagctg tccattggtt
+     2521 ggcatggggg gcaggtgctg gaggccatgt ttgagcagca aagtattcaa gtcgttgtag
+     2581 attgaggacg tattggtatg ggtaattgtt tctgacgagt tgcaggaatt cttctttgga
+     2641 gtttgcaact cgcagatatt ctccaaaatc cagttctctg gattgtcgtt ttggtttgag
+     2701 agttggtttg gttccgaatt cgacggtatc cccgtctttt ccgacgtagt taagcacgtc
+     2761 ggtgacatct ctgggctttg tgatatttgg atggtaggaa tgagacgata tggtgatgtc
+     2821 aaagtgtttt ggattacgaa tagcctgtcg ctttttgaag atgagcaagg cgtgtaggtg
+     2881 tggctcgcca tcctgatgtt tttcttcagc tatgagagcg taatctaggg tttttgagaa
+     2941 tttggatttg aagaggtcga gagcarattg tttatgaact gggcattgag ggtatgtgag
+     3001 gaagaagttt tttgagcgga gattgaagga actgcttgat gccatcttgg ttgtataaga
+     3061 tggaacggta ctctttatat agtggttgat tagatgacgt caggctgatg tcagctattt
+     3121 tgtcttatta tcccccaact cttccttata ttttaggtgg tatttggtac tcacggcaaa
+     3181 atttgtatag aagtgccata taatatt
+//
+
+LOCUS       MH476299                3208 bp    DNA     circular VRL 09-SEP-2019
+DEFINITION  UNVERIFIED: Grapevine red blotch virus isolate NSRB6, complete
+            genome.
+ACCESSION   MH476299
+VERSION     MH476299.1
+KEYWORDS    UNVERIFIED.
+SOURCE      Grapevine red blotch virus
+  ORGANISM  Grapevine red blotch virus
+            Viruses; Geminiviridae; Grablovirus.
+REFERENCE   1  (bases 1 to 3208)
+  AUTHORS   Poojari,S., Moreau,D.L., Kahl,D., Lowery,T.D. and Urbez Torres,J.R.
+  TITLE     Disease incidence and genetic variability of grapevine viruses
+            under cool-climate conditions of Nova Scotia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3208)
+  AUTHORS   Poojari,S., Moreau,D.L., Kahl,D., Lowery,T.D. and Urbez Torres,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2018) Plant Pathology, Summerland Research and
+            Development Centre and Kentville Research and Development Centre,
+            Hy 97, Summerland, British Columbia V0H1Z0, Canada
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3208
+                     /organism="Grapevine red blotch virus"
+                     /mol_type="genomic DNA"
+                     /isolate="NSRB6"
+                     /host="Vitis vinifera cv. New York Muscat"
+                     /db_xref="taxon:1381007"
+                     /country="Canada"
+                     /collection_date="20-Sep-2016"
+     gene            292..807
+                     /gene="V2"
+     CDS             292..807
+                     /gene="V2"
+                     /codon_start=1
+                     /product="V2 protein"
+                     /protein_id="QEL53141.1"
+                     /translation="MGTLNKRNRVFPDRDSCSSSESSLNDIDICGDVDALGDEALDAG
+                     SVYSSSQKLLVSVAKDVLLDDCDATVLDISLPSALWFLSQRYLTCCLRKELLPLPGIS
+                     ERQTVLLRQLTRRVARRHCLFTYKCEEWFEGCLKIKEDGTEKKEPPTEAEKKAQSDWE
+                     EFCRKAACSAT"
+     gene            710..1381
+                     /gene="V1"
+     CDS             710..1381
+                     /gene="V1"
+                     /codon_start=1
+                     /product="V1 protein"
+                     /protein_id="QEL53142.1"
+                     /translation="MVLKKRSRQRKQRRRRKATGRSSAGRRRARPRSRPCQFAFHGNS
+                     FGGTPSLFFLTPIALGTGAEDRTGPVLTVSSMYLKGVVLPTDNVTDGLHDIYFWIILD
+                     RFPTGTDPSVSDIFTGSDNSGSMIETLTRNRLNRKRFRILGSKKLVVGVNKKPQESLP
+                     HSRAAFNIFQRRRLVVAFKNDVSGGGRNDVERNRIYLSAASASGHTFRLYLNGIVNFY
+                     NGVIF"
+     gene            1365..1736
+                     /gene="V3"
+     CDS             1365..1736
+                     /gene="V3"
+                     /codon_start=1
+                     /product="V3 protein"
+                     /protein_id="QEL53143.1"
+                     /translation="MELFFNRPRCLLWRVYDQVSEFGLYDGGEDVDIPIVGDDEDDEM
+                     VTTEYGEFVKTLKRRRSERGEVTKSYKRRIALTEPDGRRTEVEELKDYLLEEDYDKHR
+                     RRLDLELGSGLHSPDSRCTVM"
+     gene            complement(1899..2333)
+                     /gene="C2"
+     CDS             complement(1899..2333)
+                     /gene="C2"
+                     /codon_start=1
+                     /product="C2 protein"
+                     /protein_id="QEL53144.1"
+                     /translation="MSREYIILTMNSTMQDQTHRRRKSLVIEGPSKTGKTQWAVSLGK
+                     HNYWCESVDFSLYIDDALYNIIDDIPFQYLPCKKALLGCQSNYIANEKYRPKRKIKGG
+                     IPSIVLCNPDQSYYDAITNWNASFKPWAEDNIIFVKIDGPLY"
+     gene            complement(2251..2892)
+                     /gene="C3"
+     misc_feature    complement(2251..2892)
+                     /gene="C3"
+                     /note="similar to C3 protein"
+     gene            complement(2498..3046)
+                     /gene="C1"
+     misc_feature    complement(2498..3046)
+                     /gene="C1"
+                     /note="similar to C1 protein"
+ORIGIN      
+        1 actggcactt cccatggtac gtggtattct tgcggagcaa gtttctcaac tttggtaaat
+       61 gcttctgatt ggttggcgag gaatctcggc tttttctttg tcggccgctt gcgtatctta
+      121 tacgcgaagc cagctggccg agaatatatg cttaaagtta gggtttattt ttaatggagg
+      181 atcgatgcgg gtggagacgc actttggctg tggtgctcat ttctctgtca gtattttggc
+      241 tgttgtactg gttagttttc tttggtcgtc gcatttgtaa gaagaatcgg aatgggaaca
+      301 ctgaacaaac ggaatcgcgt ctttcctgat cgcgattcct gcagttctag tgaaagttct
+      361 ctgaatgata ttgatatttg tggtgatgtt gatgcgttag gggatgaggc tttagacgct
+      421 gggtccgttt attcgtcgtc acagaaactg ttagtttctg tggctaaaga tgttctgtta
+      481 gatgactgtg atgcaacggt attggatata tcgttgcctt ctgcgttatg gttcttgtcc
+      541 caaagatatt tgacttgttg tctgaggaaa gagcttctgc ctttgccagg tatatccgag
+      601 agacagactg ttttattgcg tcaactgact agacgcgttg ctcgacgtca ttgtttattt
+      661 acttacaagt gcgaggagtg gttcgagggt tgtttgaaga taaaggagga tggtactgaa
+      721 aaaaaggagc cgccaacgga agcagagaag aaggcgcaaa gcgactggga ggagttctgc
+      781 aggaaggcgg cgtgctcggc cacgtagtag gccttgtcag tttgcatttc atgggaactc
+      841 ttttgggggt accccttccc tttttttttt aactcccatt gctttaggga ctggtgcgga
+      901 agacagaact ggtccagtat tgactgtaag cagtatgtat ttaaaaggtg ttgtgcttcc
+      961 gacggacaat gtcacggatg ggttgcatga tatttatttt tggattattt tagatcggtt
+     1021 tcctactgga accgatcctt ctgtatctga catattcact ggtagtgata atagcggaag
+     1081 catgattgag acattgacga ggaatcgttt gaatcgtaag agatttcgta ttcttggttc
+     1141 gaagaaactt gttgttggtg tgaacaagaa gccgcaggag tcattgccgc attcacgtgc
+     1201 agcatttaat atttttcaaa gacgtcgtct ggttgttgct tttaaaaacg acgtgtctgg
+     1261 tggaggacgg aatgatgttg aaaggaatcg catttattta agtgcggctt ctgcaagtgg
+     1321 acatacgttt agattgtatc taaatggaat tgtaaatttt tataatggag ttatttttta
+     1381 atagaccacg ctgtttatta tggcgtgtgt atgatcaagt ttctgagttt ggattgtatg
+     1441 atggtggtga agatgttgat atccccattg ttggggatga tgaagatgat gaaatggtta
+     1501 caactgagta cggtgaattc gttaagacgt tgaagagacg tcgatctgag cgcggagagg
+     1561 tgacaaaaag ttacaagcga agaattgcat tgactgaacc tgatggtaga agaactgaag
+     1621 ttgaagaatt aaaagattat ttgctagagg aagattatga taaacataga agacgtctgg
+     1681 acctggagct aggctcaggt ttacacagtc cagacagtcg ttgtacagta atgtgaatgt
+     1741 tgtatttgga tattcgaata atagaatatg gtgcaggaat ttattcaaat tatggcgtaa
+     1801 acactttgaa ataacacaca ctccaatacc agataatcag gcacgagttt ctatatgaaa
+     1861 gaacccagcc gcgaagcggc tggctgcccc tttatttatc agtacaacgg tccatcaatt
+     1921 tttacaaaga taatgttgtc ttcagcccac ggcttgaatg atgcattcca attggtgatg
+     1981 gcgtcgtagt aggattgatc tggattacaa agaacaatcg aagggattcc tcccttgatt
+     2041 ttccgctttg gacgatattt ttcatttgct atgtaattag attgacaacc taataaggct
+     2101 tttttacaag gcaaatactg gaatggtata tcatcaataa tattgtacaa agcatcatct
+     2161 atgtatagac tgaagtctac tgattcacac cagtagttat gttttcctaa tgaaacagcc
+     2221 cattgcgtct tccccgtctt cgatggtcct tcaatcacca ggctcttcct ccttcggtgc
+     2281 gtctgatcct gcattgttga gttcatcgtc agtattatat attctctcga cataatccaa
+     2341 gtaatacgtg tctagcttgt cgtctattat atgctggaca cgtttggttt cttgttccag
+     2401 gaaattgttt attcctggtc cgaggtttct tctggctgaa tttttacgta ccacgaagag
+     2461 ttcattttgg acccagagat gaatttctgg tggaaggtta ttccaagctg tccattggtt
+     2521 ggcatggggg ggcaggtgct ggaggccatg tttgagcagc aaagtattca agtcgttgta
+     2581 gattgaggac gtattggtag gggtaatgtt gtttgacgag ttgcagaaac tcgtctttgg
+     2641 aatttgcaac tcgtaggaat tctccaaaat ccagttctct ggattgcttc tttgatttga
+     2701 gagttggctt tgtaccgtgc tcgacggtat ctccttcttt tccgacgtaa ttaagcacgt
+     2761 cggcgacatc tctgggcttt gtgatattgg ggtgatagga atgagacgat atggtgatgt
+     2821 caaagtgttt tggattgcga atagcctgtc gttttttgaa gatgagcaag gcgtgtaggt
+     2881 gtggctcgcc attctgatgt ttttcttctc cgatgagagc gtaatctagg gttttttgga
+     2941 acttggattt gaagaagtct agggcaaact gtttatggac tgggcactga gggtatgtga
+     3001 ggaagaggtt ttttgagcgg agattgaagg agctacttga tgccatcttg gttgtataag
+     3061 atgggttggt actctttata tagtggttga ttagatgacg tcaggtgatg tcagctattt
+     3121 tgttttatta tccctcaatt ctagcttata gttttggtgg tattttggta ctcagggcaa
+     3181 aatttgtatt gaagtgccat ataatatt
+//
+
+LOCUS       NC_040817               3687 bp    DNA     circular VRL 12-SEP-2019
+DEFINITION  Camellia chlorotic dwarf-associated virus isolate Ca-1, complete
+            genome.
+ACCESSION   NC_040817
+VERSION     NC_040817.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Camellia chlorotic dwarf-associated virus
+  ORGANISM  Camellia chlorotic dwarf-associated virus
+            Viruses; Geminiviridae; unclassified Geminiviridae.
+REFERENCE   1  (bases 1 to 3687)
+  AUTHORS   Zhang,S., Shen,P., Li,M., Tian,X., Zhou,C. and Cao,M.
+  TITLE     Discovery of a novel geminivirus associated with camellia chlorotic
+            dwarf disease
+  JOURNAL   Arch. Virol. (2018) In press
+   PUBMED   29500570
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 3687)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3687)
+  AUTHORS   Zhang,S. and Cao,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-NOV-2017) National Center for Citrus Virus Exclusion,
+            Citrus Research Institute, Chinese Academy of Agricultural
+            Sciences, Southwest University, Beibei Xiema town citrus village in
+            Chongqing, Beibei, Chongqing 400712, China
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MG452759.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: CLC Genomics Workbench (Qiagen) v. 9.5
+            Sequencing Technology :: Illumina; Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3687
+                     /organism="Camellia chlorotic dwarf-associated virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Ca-1"
+                     /host="camellia"
+                     /db_xref="taxon:2122733"
+                     /country="China"
+     gene            235..561
+                     /locus_tag="EXL43_gp1"
+                     /db_xref="GeneID:41701981"
+     CDS             235..561
+                     /locus_tag="EXL43_gp1"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="YP_009553588.1"
+                     /db_xref="GeneID:41701981"
+                     /translation="MFRVRHVLLAISKLWVFELKYMEKIFGDTESENKVLFALCILFI
+                     IYGLVCNVVFCYGGFTRKYMGPSIYVLREVSDGGVECCSSCPSVNPGGYADGEVGISR
+                     KKLPEC"
+     gene            386..820
+                     /locus_tag="EXL43_gp2"
+                     /db_xref="GeneID:41701982"
+     CDS             386..820
+                     /locus_tag="EXL43_gp2"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="YP_009553589.1"
+                     /db_xref="GeneID:41701982"
+                     /translation="MSSFAMEGLPESIWGLVFMCCVRYLMGELNAVLPARQLIPEVMP
+                     MGKLGFLGKNCQSVKDAYCIRELVRLVRRLGRVKDKRKVYGDYKKWQGIWNRNRQASD
+                     VEKPSEKECEEQGICYECGEKIPECWCKYSKDGVEGEGPGWV"
+     gene            636..1388
+                     /locus_tag="EXL43_gp3"
+                     /db_xref="GeneID:41701980"
+     CDS             636..1388
+                     /locus_tag="EXL43_gp3"
+                     /codon_start=1
+                     /product="putative coat protein"
+                     /protein_id="YP_009553590.1"
+                     /db_xref="GeneID:41701980"
+                     /translation="MATTRSGRVSGTVTDRLPMWRSRRKRSARSRGSATSAARRSRSA
+                     GVSIRRTGWKGKVPDGCKGPCKTHSVDLIKTVYHDGRGAGFIGNIDKGEDLGNRDGRR
+                     IRITKVLLRGKVWLDVTNAALPGSNVCKVWVIKDRRPGNEIVNFTSLMDMTDSEPMSA
+                     LIKMDYRDRFIVLRDMQFDLHGGKDFRVDEASMDEMISVNCESLFSHEDEGNLSHCLE
+                     NGILVYFACSDPRNAMQITAQCRVYFFDSTVN"
+     gene            1439..2329
+                     /locus_tag="EXL43_gp4"
+                     /db_xref="GeneID:41701979"
+     CDS             1439..2329
+                     /locus_tag="EXL43_gp4"
+                     /codon_start=1
+                     /product="putative movement protein"
+                     /protein_id="YP_009553591.1"
+                     /db_xref="GeneID:41701979"
+                     /translation="MSDVGNGGDVFNVNAYHSTKRVEYPLSNEWVKIKLAFPSMKDVS
+                     WSKFRGHCMKIDHCQIDYAPQVPINASGSVIIVLNDTRMLLDEQLQAEYTFPLRCPIT
+                     LNYYASSYFSLQDPVPWECFYKVENSSVKTGLHFAQFKARVKLSTAKKSSSILFRPPS
+                     VTINSKEFSMDHVDFRHVAVKKPERFLCRSSSMIVSRPRIMIEPGESWATKSMLSGED
+                     DDGSMLGLNHGPYKRLESLGPDAIDPGPSASQVGLSPTNFVIEPKELASIVADAVAVG
+                     SQVAKSNEAGPSDYNTRKRV"
+     gene            complement(2469..3583)
+                     /locus_tag="EXL43_gp5"
+                     /db_xref="GeneID:41701978"
+     CDS             complement(join(2469..2867,2981..3583))
+                     /locus_tag="EXL43_gp5"
+                     /codon_start=1
+                     /product="putative Rep protein"
+                     /protein_id="YP_009553592.1"
+                     /db_xref="GeneID:41701978"
+                     /translation="MAPTQKQFRFASKNIFLTFAQCNLLMATLLDHLKHLLSNLDIIY
+                     ISVCSELHASGDPHLHAMVQLKKPLQTRNPRFFDYNSDRNNFHPSFEPLRNPRASKSY
+                     IQKDGNFIEEGEFQSNGKSPHKPANKVWQEILQKSTDENDFYKQVKMHRPADFVLRWP
+                     AISSFAKDHYNRNFIPYTPQFENFVNLPDNIREWANNNVLCEPESRPHRPRSLYICGP
+                     SRTGKTSWARSLGLHNYFTNSVKFHEYNDNALYNVIDDINYAKISTEIMKALVGAQRS
+                     ITVNVKYRPDRTLLGGIPCIILCNPDMDWTVTMSPTIKQWWDLNVTEHYMSDSDVFY"
+     gene            complement(2750..3583)
+                     /locus_tag="EXL43_gp6"
+                     /db_xref="GeneID:41701977"
+     CDS             complement(2750..3583)
+                     /locus_tag="EXL43_gp6"
+                     /codon_start=1
+                     /product="putative RepA protein"
+                     /protein_id="YP_009553593.1"
+                     /db_xref="GeneID:41701977"
+                     /translation="MAPTQKQFRFASKNIFLTFAQCNLLMATLLDHLKHLLSNLDIIY
+                     ISVCSELHASGDPHLHAMVQLKKPLQTRNPRFFDYNSDRNNFHPSFEPLRNPRASKSY
+                     IQKDGNFIEEGEFQSNGKSPHKPANKVWQEILQKSTDENDFYKQVKMHRPADFVLRWP
+                     AISSFAKDHYNRNFIPYTPQFENFVNLPDNIREWANNNVLCVSKTFVQYDLCYECSKK
+                     AMFETECPISLLHNFYCDNCRSPSLDLIVHEASTSVDQAEQERHPGQDPSDYIIISQT
+                     P"
+ORIGIN      
+        1 acagccgtgt cttgcgagga tgagtgggcg aatccgagcc gtcccgtttt tgtgcggtgt
+       61 agattttgcc gacagttgta gtggtggtcc cctaccacgt gcctctttta ttaatgcgcc
+      121 cgtctttatt ccccacccac tatcatagtg gtccagggga aataatgcaa agtcgtagat
+      181 tcgagacgac gtagttttgc ataagggcgg ggtttttgaa ttttcaaaat tcaaatgttt
+      241 cgtgtaagac acgttttgtt ggctataagt aagttgtggg tgtttgaact gaaatatatg
+      301 gagaaaatat ttggagatac agagagcgaa aataaggtat tatttgcact gtgcatttta
+      361 tttattattt acggtttagt ttgcaatgtc gtcttttgct atggagggtt tacccgaaag
+      421 tatatggggc ctagtattta tgtgttgcgt gaggtatctg atgggggagt tgaatgctgt
+      481 tcttcctgcc cgtcagttaa tcccggaggt tatgccgatg gggaagttgg gatttctcgg
+      541 aaaaaattgc cagagtgtta aagatgctta ttgtatcagg gaattagtaa ggttggttcg
+      601 acgactggga cgtgttaaag ataaacgtaa ggtatatggc gactacaaga agtggcaggg
+      661 tatctggaac cgtaacagac aggcttccga tgtggagaag ccgtcggaaa aggagtgcga
+      721 ggagcagggg atctgctacg agtgcggcga gaagatcccg gagtgctggt gtaagtattc
+      781 gaaggacggg gtggaagggg aaggtcccgg atgggtgtaa aggcccatgc aagacgcact
+      841 ctgttgattt aataaaaaca gtttaccacg acggacgggg tgctggtttt attggtaata
+      901 ttgacaaggg agaggacctt ggaaatcgtg atggtagaag aattaggatt actaaggtgt
+      961 tattgagggg taaggtttgg ttagatgtga caaatgctgc tttgcctggt agcaatgtgt
+     1021 gtaaggtgtg ggtcattaag gataggcgtc ctggtaatga aattgtgaat ttcacgtctc
+     1081 tgatggatat gacggattct gaacctatga gcgcactaat caagatggat taccgtgata
+     1141 ggtttattgt gttaagagac atgcaatttg atttgcatgg tggtaaagat ttcagagttg
+     1201 acgaagcatc tatggacgag atgatttctg ttaactgtga gtctttattt agtcatgaag
+     1261 atgaaggcaa tcttagccat tgtttagaga atggcattct tgtttatttt gcttgcagtg
+     1321 atcctaggaa tgcaatgcaa attacagctc aatgtagagt gtatttcttt gacagtactg
+     1381 taaattaaat atcattaata aaagcctttt tgtatttttt ttgttatgtt tttgcagaat
+     1441 gtcggatgtt ggtaatggtg gagatgtatt taatgttaat gcttatcata gcaccaagag
+     1501 ggttgagtat cccttgtcaa atgaatgggt aaagataaaa ttggcattcc catctatgaa
+     1561 agatgtgagt tggagtaaat ttagggggca ttgtatgaaa attgaccatt gtcaaattga
+     1621 ttatgcccct caagtgccta ttaacgccag cggaagcgta attattgtgt taaacgatac
+     1681 gaggatgttg ttggatgagc agttgcaggc tgaatataca tttccattaa gatgtcctat
+     1741 tacgctaaat tactacgcaa gtagttattt ttcgttacag gaccctgtgc cttgggaatg
+     1801 tttttacaag gttgaaaaca gttcagttaa gactgggctt cattttgccc agtttaaagc
+     1861 tcgtgttaag ttatcaacgg ctaagaagag ttcttcaatt ttatttcgtc cacctagtgt
+     1921 gactattaac agcaaggagt ttagcatgga tcatgttgat tttcggcacg tggctgtgaa
+     1981 aaaaccagaa aggtttttat gcaggagcag ttctatgatt gtcagcaggc ctagaattat
+     2041 gattgagcct ggtgaatcat gggctacaaa aagcatgttg agcggtgaag atgatgacgg
+     2101 tagtatgttg ggcctgaatc atgggcctta caaaaggctt gagtcattgg gcccagatgc
+     2161 tattgatcct gggcccagtg ctagtcaggt gggcttaagc ccaacgaatt ttgtaattga
+     2221 gcccaaggag ttggcaagta ttgttgcaga tgctgttgct gttggtagcc aagttgcaaa
+     2281 gagtaatgaa gctgggccta gtgactataa cacacggaag cgtgtgtgat aaattatttt
+     2341 tttttaacaa tgttatgtat ttaaaaaaat aattgcaact atatgtaatg agacggtatt
+     2401 atgtaactgg aaaactattt tattattaat attccgccgg aggctgtggg gagaacatgt
+     2461 tgtttccatt aataaaaaac atcagaatca gacatgtaat gttcagtaac gttgagatcc
+     2521 caccactgtt taattgtggg tgacattgtt accgtccagt ccatgtctgg gttacaaagg
+     2581 ataatacatg gtattccacc taataaagtc ctatcgggac ggtacttaac gttaacagta
+     2641 atagatcttt gtgctccaac taacgccttc attatttcgg tagatatttt agcataatta
+     2701 atgtcgtcta ttacattata taaggcgtta tcgttgtatt catggaactt cacggagttt
+     2761 gtgaaataat tatgtagtcc gagggatctt gcccaggatg tctttcctgt tctgcttggt
+     2821 ccacagatgt agaggcttcg tggacgatga ggtctagact cgggctcctg caattatcgc
+     2881 aatagaagtt atgaagtagc gatattggac attctgtttc aaacatggct ttcttagagc
+     2941 attcgtagca gaggtcgtat tgaacgaaag tcttgcttac acatagtacg ttgttgtttg
+     3001 cccattcgcg aatgttgtct ggcaaattga caaagttttc aaactgtggg gtgtagggga
+     3061 tgaaatttct gttgtagtga tctttcgcga atgatgatat cgctggccat cggagtacga
+     3121 agtctgctgg tctatgcatt tttacctgtt tataaaaatc attttcgtca gttgattttt
+     3181 gcaagatctc ttgccatacc ttgtttgctg gtttgtgtgg agattttcca ttggattgga
+     3241 attctccctc ttcaatgaag ttcccatctt tttgaatata tgattttgaa gctctggggt
+     3301 tcctcaatgg ttcaaagctc ggatgaaagt tgtttctatc ggagttataa tcaaagaacc
+     3361 ttggatttct tgtctgtaga ggttttttga gttgaaccat ggcatgaagg tgtggatcac
+     3421 ctgatgcatg cagttctgaa catacggata tgtaaattat atccaggttt gaaagaaggt
+     3481 gtttcagatg gtcaagtagt gtggccatta ggaggttaca ttgtgcgaat gttaggaaga
+     3541 tgtttttgga agcgaaccgg aattgttttt gggttggagc catggtatga tgggtgaaag
+     3601 ccgtactgcc aggaagggct ccccctaaga gtatctatat atgggaatgg caaatggcag
+     3661 gttcaagaca cggctatata taatatt
+//
+
+LOCUS       NC_040757               1822 bp    RNA     linear   VRL 13-SEP-2019
+DEFINITION  Aspergillus fumigatus partitivirus 2 segment 1, complete sequence.
+ACCESSION   NC_040757
+VERSION     NC_040757.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Aspergillus fumigatus partitivirus 2
+  ORGANISM  Aspergillus fumigatus partitivirus 2
+            Viruses; Riboviria; Partitiviridae; unclassified Partitiviridae.
+REFERENCE   1  (bases 1 to 1822)
+  AUTHORS   Zoll,J., Verweij,P.E. and Melchers,W.J.G.
+  TITLE     Discovery and characterization of novel Aspergillus fumigatus
+            mycoviruses
+  JOURNAL   PLoS ONE (2018) In press
+REFERENCE   2  (bases 1 to 1822)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1822)
+  AUTHORS   Zoll,J., Verweij,P.E. and Melchers,W.J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2018) Department of Medical Microbiology, Radboud
+            University Medical Center Nijmegen, PO Box 9101, Nijmegen 6500HB,
+            The Netherlands
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MH192991.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: CLC Genomic Workbench v. 11.0.1
+            Assembly Name         :: V14513_323_48
+            Coverage              :: 422
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1822
+                     /organism="Aspergillus fumigatus partitivirus 2"
+                     /mol_type="genomic RNA"
+                     /isolate="V145-13"
+                     /isolation_source="human lung biopsy"
+                     /host="Aspergillus fumigatus"
+                     /db_xref="taxon:2250452"
+                     /segment="1"
+                     /country="Netherlands"
+                     /collection_date="04-Feb-2017"
+     gene            35..1756
+                     /locus_tag="F2Q04_s1gp1"
+                     /db_xref="GeneID:41704289"
+     CDS             35..1756
+                     /locus_tag="F2Q04_s1gp1"
+                     /codon_start=1
+                     /product="RNA-dependent RNA polymerase"
+                     /protein_id="YP_009553311.1"
+                     /db_xref="GeneID:41704289"
+                     /translation="MLLTEIPNVYQRAVALERRIRLRELYPEGVVPYLAKQEYDGAIA
+                     GPHGPHGSVAPSVTTTFQAKLPLDQYPDRKYTLECKETMIYLGKMDGYPFSSSIPKFD
+                     PWFRKVLKDKDPAIVKDLEDTFMRDPCTPDRVMKHMSLFDRTWKRMPTGRLMSRAKDI
+                     VAKMFEPIGKVEPIDFNFAGWHKILPNLDMTSSPGLPLRREYQTQGECLGHIYDKTKR
+                     LNHFAKFLHPAAVRAPPCMIGVRPGLIRRDEYNEKVKARGVWAYPAEVKVMEMRFVQP
+                     LIERMSLNFMKIPYPVGRNMTKALPMLIDHMLHDKKKGFVTDVSNLDASVGPDYIDWA
+                     FSLMKTWFNFGITQSSETRNANVFDFLHYYFKRTPILLPSGQLVKKAGGVPSGSGFTQ
+                     LVDTLVTILATVYTLLRMGWDEDQIIKGYMQVVGDDMAVSVPRDFDPEEFVYLMGSLG
+                     FTINLKKVMFSDKGIELKFLGYSKYGGSVYRPLDELLQTAFFPEKFVGNPERSRMRIA
+                     GQTLASGMTNAFFSKVNYWMEELVSLATELDPDEVFIPQRRWLRIVLGLDEMPSTTLA
+                     FDMFPLV"
+ORIGIN      
+        1 cgaaaatgag tcacaacata acagttccca gcacatgcta ttaaccgaaa tccctaacgt
+       61 ttaccaacgg gcggttgccc ttgagcgccg tatccgactt agggaactgt accctgaagg
+      121 tgtcgtccca tatctcgcta aacaagagta tgatggtgcg atcgctggac cacacggtcc
+      181 acacggtagt gttgcaccga gtgtcactac tacttttcag gctaaacttc ctctcgatca
+      241 gtatccagac cgtaaataca ctttagaatg taaagaaacc atgatctatt tgggcaaaat
+      301 ggacggttat ccattttctt cgtcaattcc caaatttgat ccttggttcc gcaaggttct
+      361 aaaggataaa gatccggcca ttgtgaaaga tctagaggat accttcatgc gtgatccatg
+      421 cacccctgat cgcgttatga aacatatgtc tttattcgat aggacgtgga agcgaatgcc
+      481 gactggacgt ttaatgtcca gagcaaagga catcgttgct aagatgttcg aacccatcgg
+      541 taaagtcgag ccaatcgact ttaacttcgc aggttggcac aagatattgc caaacctaga
+      601 catgacctcc tccccaggtc tacccctccg acgcgaatat cagacacaag gcgaatgtct
+      661 tggtcacatt tacgataaga ccaagaggtt aaaccatttc gccaaattcc ttcaccccgc
+      721 tgccgttcgt gctccgcctt gtatgattgg tgtccgccca ggactcatca gacgtgacga
+      781 gtacaacgaa aaggtcaaag cgcgcggagt gtgggcgtat cctgctgaag tcaaggttat
+      841 ggaaatgcgt ttcgttcaac cgcttattga aaggatgtct ctcaacttta tgaagatacc
+      901 ttatcctgta ggacgcaaca tgaccaaagc acttccgatg ctaattgatc acatgcttca
+      961 tgacaagaag aaaggtttcg tcactgacgt ttccaatctc gacgcaagcg taggacctga
+     1021 ctatattgat tgggccttta gcttaatgaa gacttggttc aattttggta tcactcaatc
+     1081 ttctgaaacc aggaacgcaa atgtgtttga ttttcttcac tactacttta agaggactcc
+     1141 gatcctcctc ccatcaggac aactcgtcaa gaaggcgggt ggcgtgccct ccggttcggg
+     1201 ttttacccaa cttgtggaca ccttggttac aattctggca acagtgtata ccttgctgag
+     1261 aatgggctgg gatgaagatc aaatcatcaa aggctacatg caagtagtcg gtgatgacat
+     1321 ggctgtctcc gttcctcggg actttgatcc tgaagaattc gtttacctta tgggcagtct
+     1381 tggattcact attaatctca agaaggtgat gttttccgac aaaggaatag agctcaagtt
+     1441 tcttggctat tccaagtatg gaggaagcgt ctaccgcccc cttgatgaat tgcttcaaac
+     1501 cgctttcttt ccagaaaagt ttgttggcaa tcctgaacgt tcgcgaatgc gaatagctgg
+     1561 tcaaactcta gcttcaggaa tgacgaacgc tttctttagt aaagtcaatt actggatgga
+     1621 agagcttgtt tctctagcca ccgaattgga tcccgacgaa gtgttcatac ctcaacgccg
+     1681 ctggctgcgt atcgtgcttg gactcgatga aatgcctagc actactctgg cttttgacat
+     1741 gttcccgtta gtctagccga caacgacatg ttaggaactg aagtctcatt agcttcgata
+     1801 gtgttttcac tcctaacacc aa
+//
+
+LOCUS       NC_040756               1638 bp    RNA     linear   VRL 13-SEP-2019
+DEFINITION  Aspergillus fumigatus partitivirus 2 segment 2, complete sequence.
+ACCESSION   NC_040756
+VERSION     NC_040756.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Aspergillus fumigatus partitivirus 2
+  ORGANISM  Aspergillus fumigatus partitivirus 2
+            Viruses; Riboviria; Partitiviridae; unclassified Partitiviridae.
+REFERENCE   1  (bases 1 to 1638)
+  AUTHORS   Zoll,J., Verweij,P.E. and Melchers,W.J.G.
+  TITLE     Discovery and characterization of novel Aspergillus fumigatus
+            mycoviruses
+  JOURNAL   PLoS ONE (2018) In press
+REFERENCE   2  (bases 1 to 1638)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1638)
+  AUTHORS   Zoll,J., Verweij,P.E. and Melchers,W.J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2018) Department of Medical Microbiology, Radboud
+            University Medical Center Nijmegen, PO Box 9101, Nijmegen 6500HB,
+            The Netherlands
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MH192992.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: CLC Genomic Workbench v. 11.0.1
+            Assembly Name         :: V14513_323_48
+            Coverage              :: 422
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1638
+                     /organism="Aspergillus fumigatus partitivirus 2"
+                     /mol_type="genomic RNA"
+                     /isolate="V145-13"
+                     /isolation_source="human lung biopsy"
+                     /host="Aspergillus fumigatus"
+                     /db_xref="taxon:2250452"
+                     /segment="2"
+                     /country="Netherlands"
+                     /collection_date="04-Feb-2017"
+     gene            96..1547
+                     /locus_tag="F2Q04_s2gp1"
+                     /db_xref="GeneID:41704288"
+     CDS             96..1547
+                     /locus_tag="F2Q04_s2gp1"
+                     /codon_start=1
+                     /product="coat protein"
+                     /protein_id="YP_009553310.1"
+                     /db_xref="GeneID:41704288"
+                     /translation="MPRKDTAEKDPVTKDDTKGQKDAAADSTDKGKGNKPKTQKQKTE
+                     SSASKYTPGFAEGNSVLQGYNLSVSGRMERILSPFKGDKFFHFVSDAWSEFTRLKPHI
+                     TERFSYAEFRHMSALQLYNRLEAVKFDALGVKQPAPTRIPLPRDTRVFQPIWSVLANI
+                     GVVEDPDLRAIYIPDGIVPKSKDLSHPDDIENLLSCTLYDWESSWKEVVKAREARKQY
+                     QQRTGLDATTDSNETTVQLSKEELIAKIQFFRKEITRAEEREKSPEYELVKGVLRKIK
+                     AVTAPSSPSSSRSGKDNGTEATSPKKEYEQETYWTVSGAKNQLEAYMQQAKKLKSQMI
+                     APKFDVTHKIESYRISDGTITTSPGSYGEWMRWDPQLYIDYENFVTEVTPMALFSLSM
+                     PAESKGTYAWILPVEKREDDDSSVSARMPRASIPTATWVLALLLQSSTLPLHRRSTWY
+                     TETDRLQNVLGVRRRYIKAAIKDPTAVEQYGTI"
+ORIGIN      
+        1 cgaaaatgag tcacaatata acatttaccg gcatttgcca ttaagctatt tctctttaca
+       61 cattcatacc gtttggcttt ctgattgtgt acaccatgcc gcgcaaggat accgccgaaa
+      121 aggatcccgt caccaaagac gatacaaagg gtcagaaaga tgccgctgct gattctactg
+      181 acaagggtaa aggcaacaag cctaagaccc agaaacagaa gaccgagtcc tctgcttcta
+      241 aatacacgcc tggtttcgct gaaggaaact ctgttctcca aggctacaac ctaagcgttt
+      301 caggaaggat ggagagaatt ctgtcaccgt ttaagggaga caaattcttc catttcgtga
+      361 gcgatgcctg gtctgagttc actagactca agcctcacat caccgagcgt ttctcatacg
+      421 ctgaatttcg gcatatgtca gctctccagc tgtacaaccg acttgaagct gtgaagttcg
+      481 atgctcttgg tgtaaagcag cctgctccga cccgaatccc ccttccacgt gatacgcgtg
+      541 tctttcaacc tatctggtct gttctggcaa atattggagt cgtcgaagac cccgatttgc
+      601 gtgcgattta cattcctgac ggtattgtcc ctaagtcaaa ggatctatct catcctgacg
+      661 atatcgaaaa cctcttgtcc tgcactctct atgattggga atcaagctgg aaagaagttg
+      721 tcaaagctcg ggaagctcgt aaacaatatc aacaacgcac tggtttggat gcaaccacag
+      781 attcgaacga gaccaccgtc caactctcca aggaagaact cattgccaag attcaattct
+      841 tccgcaagga gataactcgt gccgaggaac gcgaaaagag tcctgagtat gagttagtca
+      901 agggcgtgct ccgtaaaatc aaagctgtaa cagctccatc ctcgcccagc tcgtcaagaa
+      961 gcggtaagga taatggtacg gaagcaacat ctccgaagaa ggagtatgaa caagagactt
+     1021 actggaccgt ttccggtgcc aagaatcaac tcgaggccta catgcaacag gctaagaaac
+     1081 tgaagtctca aatgattgct ccgaaattcg acgtcactca caagattgag tcgtaccgga
+     1141 tttccgatgg tacaatcact acctctccag gctcgtacgg agaatggatg cgttgggacc
+     1201 cccaactcta cattgattat gagaactttg tcacagaagt aactccaatg gcactattct
+     1261 cgctgtccat gcctgctgaa tccaagggca cctatgcttg gattctcccg gtggaaaaac
+     1321 gtgaagatga cgactcttcc gtgtcagccc gcatgccgcg tgcttccatc cccactgcaa
+     1381 catgggttct tgctctactg ttgcaatctt ccacactacc gttacacagg cgttcaacct
+     1441 ggtatactga aactgacagg ttacagaacg ttctgggtgt gcgacgccgc tacatcaaag
+     1501 ctgcgatcaa agacccaact gctgtagaac aatacggtac tatctagtcc tagcgtgact
+     1561 acccgacaat aacgtatggg aatgatctct cattaggatc gatagttgtg aagactgttg
+     1621 tcgccaacaa ctccatac
+//
+
+LOCUS       NC_040751                984 bp    DNA     circular VRL 13-SEP-2019
+DEFINITION  Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment DNA-C,
+            complete sequence.
+ACCESSION   NC_040751
+VERSION     NC_040751.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cow vetch latent virus
+  ORGANISM  Cow vetch latent virus
+            Viruses; Nanoviridae; unclassified Nanoviridae.
+REFERENCE   1  (bases 1 to 984)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Nanovirus-alphasatellite complex identified in Vicia cracca in the
+            Rhone delta river region of France
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 984)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 984)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2017) UMR BGPI, INRA, Cirad TA A-54/K Campus
+            International de Baillarguet, Montpellier 34398, France
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MF535447.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..984
+                     /organism="Cow vetch latent virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nano_VcLV_Sambuc_2010"
+                     /isolation_source="host leaves"
+                     /host="Vicia cracca"
+                     /db_xref="taxon:2056780"
+                     /segment="DNA C"
+                     /country="France: Rhone delta region, Le Sambuc"
+                     /lat_lon="43.51 N 4.73 E"
+                     /collection_date="10-Jun-2010"
+     stem_loop       join(966..984,1..12)
+     misc_feature    join(978..984,1..2)
+                     /note="conserved nonanucleotide at replication origin"
+     gene            289..801
+                     /gene="clink"
+                     /locus_tag="F2P95_sCgp1"
+                     /db_xref="GeneID:41704228"
+     CDS             289..801
+                     /gene="clink"
+                     /locus_tag="F2P95_sCgp1"
+                     /codon_start=1
+                     /product="cell cycle link protein"
+                     /protein_id="YP_009553302.1"
+                     /db_xref="GeneID:41704228"
+                     /translation="MVLKYFSLLPSELKEKIVREHLKEERKREFLENSVLAACRRYED
+                     LLLKDDITDEELLHLSKFLDSLVQYVTDYIGSRCLIRWKKDVSPRVKYSVMEEQHIQL
+                     YGFRDMEDLSCEELLLPEVEEDITYEDGMIVNCGQLDALFRDLGVTVVYITIGNGLIL
+                     LPMCKEIVIT"
+ORIGIN      
+        1 acccccgtgc caggatcagc ggagtcattt aaaatacatc tcagccgtta aatgaagggg
+       61 acacgtgtac aatcaggatc tgtgattcgt gaagcgaatc tgacggaaga ttgtacagtg
+      121 acattatcgc tttcgctgtg ggtccagtta gctttcaacg cgttttactt tccacgcgtt
+      181 attgtggttt actttcccaa agattccagc tgtctttgct tcgtcccgaa gcaaagtata
+      241 cactgcgcta tttaagcaat cgtctttgtt gtgtttcaca caacaacgat ggttttaaaa
+      301 tatttctctc tcctgccctc tgaattaaaa gagaagattg ttcgtgaaca tctgaaggaa
+      361 gaacgtaaga gagagtttct ggaaaattca gttctagctg cttgccgaag atatgaagac
+      421 ttactactca aagatgatat tacagacgaa gagttgttgc atcttagtaa gtttttagat
+      481 tcattagttc agtatgttac tgattatatt ggtagtcgat gtcttattag atggaagaaa
+      541 gatgtttcgc caagagtgaa gtactccgtt atggaagaac agcatattca gctttatggg
+      601 tttcgggaca tggaggattt gtcttgtgaa gaactgttgc ttccagaggt tgaagaagat
+      661 attacatatg aagatgggat gattgttaac tgtggtcaat tagatgcatt gtttagggat
+      721 ttaggagtta cggtagttta cattactata ggtaatggtt tgattttgct tccaatgtgt
+      781 aaagaaattg taattacata attacaagaa agaaaataat aataaataaa cattagatta
+      841 taatgctatt gttccattta ctctgcgcag caatatgtct tggcccaata ggcccaatag
+      901 agataggccc aatatgttta gtattcaatt gatatcaaat aacactattt gatcccggga
+      961 tgagctggca cggggcttag tatt
+//
+
+LOCUS       NC_040750                980 bp    DNA     circular VRL 13-SEP-2019
+DEFINITION  Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment
+            DNA-U4, complete sequence.
+ACCESSION   NC_040750
+VERSION     NC_040750.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cow vetch latent virus
+  ORGANISM  Cow vetch latent virus
+            Viruses; Nanoviridae; unclassified Nanoviridae.
+REFERENCE   1  (bases 1 to 980)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Nanovirus-alphasatellite complex identified in Vicia cracca in the
+            Rhone delta river region of France
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 980)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 980)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2017) UMR BGPI, INRA, Cirad TA A-54/K Campus
+            International de Baillarguet, Montpellier 34398, France
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MF535454.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..980
+                     /organism="Cow vetch latent virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nano_VcLV_Sambuc_2010"
+                     /isolation_source="host leaves"
+                     /host="Vicia cracca"
+                     /db_xref="taxon:2056780"
+                     /segment="DNA U4"
+                     /country="France: Rhone delta region, Le Sambuc"
+                     /lat_lon="43.51 N 4.73 E"
+                     /collection_date="10-Jun-2010"
+     stem_loop       join(963..980,1..11)
+     misc_feature    join(974..980,1..2)
+                     /note="conserved nonanucleotide at replication origin"
+     gene            342..656
+                     /gene="U4"
+                     /locus_tag="F2P95_sU4gp1"
+                     /db_xref="GeneID:41704227"
+     CDS             342..656
+                     /gene="U4"
+                     /locus_tag="F2P95_sU4gp1"
+                     /codon_start=1
+                     /product="U4 protein"
+                     /protein_id="YP_009553301.1"
+                     /db_xref="GeneID:41704227"
+                     /translation="MKRRFIMFSFLLLVFLNSSFVLNLVLGYVLGILLRKNLPGLMEL
+                     IQGEEEETMLHKNEDNPFANVDQDVIAHLKTLGLDMKVQGEDADYLKKLWESMIGSRS
+                     DN"
+ORIGIN      
+        1 acccccgtcc cgggatcgga gtcacgtacg gtatgactat tagccgttgg atcactggac
+       61 acgtgtacaa tcaggatctg tgattcgtga agcgaatctg acggaagatt gtgcactatc
+      121 gctttaccgc ccacttgcca atatactttt gtgagtggcc cacattactt tacatagtgc
+      181 attacagctg tatccagctt atatttattt aatttaaatt aaataaatac ctttcaagcg
+      241 tactaggcac gctgagtcta gatctataaa tagaagaggc ttcttatatt aatgcttgta
+      301 tcagcatata gttgttcatc aactatattg ttttcaataa gatgaaacgt aggtttatta
+      361 tgttttcgtt tcttctttta gtctttttaa attcttcctt cgtcctgaac ttggttctgg
+      421 gttatgttct gggtatttta ttgaggaaga atttacctgg gttaatggag ttaattcaag
+      481 gtgaagaaga agaaacgatg ttacacaaga acgaagacaa tcctttcgca aatgttgatc
+      541 aagatgttat agctcattta aagacgcttg gattggatat gaaggttcaa ggagaagacg
+      601 cagattactt aaagaagtta tgggaatcaa tgatcggtag tcgtagcgat aattaattag
+      661 ttatattgta ataattaaac atacgtttaa ttatgatgcc gcgttgtatc tcacatgtaa
+      721 atgattcgtg aataaaatat tctattttat tgggcctatc tctattgggc ctatttgata
+      781 tcaagaaacg cttcgcttat acatgtgtat ctatcattta cagtgttaaa ttaattgtaa
+      841 ctccagaaat aataattact aagatgtact aatcattatt cttgccttct aattactccg
+      901 cgcagcggta tgttaatgtt tatttagaat cagctgatgt cagctgatcc catgatgacg
+      961 tagggacggg gcttagtatt
+//
+
+LOCUS       NC_040749                988 bp    DNA     circular VRL 13-SEP-2019
+DEFINITION  Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment
+            DNA-U1, complete sequence.
+ACCESSION   NC_040749
+VERSION     NC_040749.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cow vetch latent virus
+  ORGANISM  Cow vetch latent virus
+            Viruses; Nanoviridae; unclassified Nanoviridae.
+REFERENCE   1  (bases 1 to 988)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Nanovirus-alphasatellite complex identified in Vicia cracca in the
+            Rhone delta river region of France
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 988)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 988)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2017) UMR BGPI, INRA, Cirad TA A-54/K Campus
+            International de Baillarguet, Montpellier 34398, France
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MF535452.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..988
+                     /organism="Cow vetch latent virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nano_VcLV_Sambuc_2010"
+                     /isolation_source="host leaves"
+                     /host="Vicia cracca"
+                     /db_xref="taxon:2056780"
+                     /segment="DNA U1"
+                     /country="France: Rhone delta region, Le Sambuc"
+                     /lat_lon="43.51 N 4.73 E"
+                     /collection_date="10-Jun-2010"
+     stem_loop       join(970..988,1..12)
+     misc_feature    join(982..988,1..2)
+                     /note="conserved nonanucleotide at replication origin"
+     gene            318..800
+                     /gene="U1"
+                     /locus_tag="F2P95_sU1gp1"
+                     /db_xref="GeneID:41704226"
+     CDS             318..800
+                     /gene="U1"
+                     /locus_tag="F2P95_sU1gp1"
+                     /codon_start=1
+                     /product="U1 protein"
+                     /protein_id="YP_009553300.1"
+                     /db_xref="GeneID:41704226"
+                     /translation="MVVGISSVIRVILVEEASEEIIGYRRRQQAVVCDDVRLVKSFQV
+                     MNIKIEDIYLNMDDKAVVKMKFLLNYRYRKQLNIVVLGCRMKVTTTLRSPGAESMRRL
+                     LQSRLNTICKSNYVISINQFFCNIHELLNTCTWVSRVETCVLYVVYIMLHDICLCILY
+                     "
+ORIGIN      
+        1 acccccgtgc caggatcagc ggagtcattt aaaatacatc tcagccgtta aatgaagggg
+       61 acacgtgtac aatcaggatc tgtgattcgt gaagcgaatc tgacggaaga ttgtacagtg
+      121 acattatcgc tttcgctgtg ggccattagc tttccatgtg ctttcttttg ctaaagcatc
+      181 ttactttcca ttaaagtgct ggaagacagc tggctttgct tcatctcgaa gcaaagtaat
+      241 atgttatata taaaaccagt tctctattcg tagagcgttt attttttcca tcatcgttct
+      301 tccttcaacc gagaaatatg gttgtgggta tttcatcagt gataagagtc atattggttg
+      361 aagaggcatc tgaagaaatt atcggttata gacggagaca acaagccgtc gtttgcgatg
+      421 atgtgcgtct ggtgaaatct tttcaagtga tgaacataaa gattgaagac atctatctaa
+      481 atatggatga caaggcagtg gtgaagatga agttcctcct taattacaga tataggaaac
+      541 aattgaatat tgttgttctc ggatgtcgca tgaaggtcac aacaacattg agatctccag
+      601 gtgccgaatc tatgaggcgg ttattacaat ccagattaaa tacaatatgt aagagtaatt
+      661 atgtaattag tattaaccag tttttttgta atatccatga attattaaat acatgtacgt
+      721 gggtgtcacg cgttgaaacg tgcgtcctat atgttgtata tatcatgtta catgatatat
+      781 gtctttgtat tttgtattaa tgtaataaat gattatatgt ttgcagatga acaatacaat
+      841 taataataat tccactttta taatactctg cgcagcaata tgtcttggtc caataggctc
+      901 aatagatata tgcataataa ataatatttt tattaatatc aaataacact atttgatccc
+      961 gggatgagct ggcacggggc ttagtatt
+//
+
+LOCUS       NC_040748                986 bp    DNA     circular VRL 13-SEP-2019
+DEFINITION  Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment DNA-S,
+            complete sequence.
+ACCESSION   NC_040748
+VERSION     NC_040748.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cow vetch latent virus
+  ORGANISM  Cow vetch latent virus
+            Viruses; Nanoviridae; unclassified Nanoviridae.
+REFERENCE   1  (bases 1 to 986)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Nanovirus-alphasatellite complex identified in Vicia cracca in the
+            Rhone delta river region of France
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 986)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 986)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2017) UMR BGPI, INRA, Cirad TA A-54/K Campus
+            International de Baillarguet, Montpellier 34398, France
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MF535451.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..986
+                     /organism="Cow vetch latent virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nano_VcLV_Sambuc_2010"
+                     /isolation_source="host leaves"
+                     /host="Vicia cracca"
+                     /db_xref="taxon:2056780"
+                     /segment="DNA S"
+                     /country="France: Rhone delta region, Le Sambuc"
+                     /lat_lon="43.51 N 4.73 E"
+                     /collection_date="10-Jun-2010"
+     stem_loop       join(968..986,1..12)
+     misc_feature    join(980..986,1..2)
+                     /note="conserved nonanucleotide at replication origin"
+     gene            260..775
+                     /gene="CP"
+                     /locus_tag="F2P95_sSgp1"
+                     /db_xref="GeneID:41704225"
+     CDS             260..775
+                     /gene="CP"
+                     /locus_tag="F2P95_sSgp1"
+                     /codon_start=1
+                     /product="capsid protein"
+                     /protein_id="YP_009553299.1"
+                     /db_xref="GeneID:41704225"
+                     /translation="MVSNWSSSGRKWRHSGRKGGGRPFKPIVPTTRLVVHSTALLNKD
+                     DVVGCEIRPKDISRYKMRKVMLTCTVRMPPGELLNYLVVKCSSPLVNWGAAFSSPALL
+                     VKEDCQDMITILGKGKIESSGVAGSDCTKSFSRFVKLGSGVTQTQHLYVILYTSVSMK
+                     SVLEHRMYVEV"
+ORIGIN      
+        1 acccccgtgc caggatcagc ggagtcagca cgtgaccctc acatgactat taatgaaaga
+       61 gaatgaggaa gcttcgtaga agccgcgtga ataaaataat actttctctc acttactttt
+      121 ttaaaagtaa agtgctagct atctttccat gtgcgttact ttacatctat ccgcgtattg
+      181 ctgtacattg cttcgttatg aagcaaagaa ttagagtata tatataatcg tttccttttg
+      241 tgttttacac acaaaaacga tggtgagcaa ttggagcagt tctggtagaa aatggcgcca
+      301 ttcaggtcgc aagggtggtg gtcgtccatt taaacctatt gttccgacaa cgaggttggt
+      361 ggttcattca acagctcttt taaacaaaga tgacgttgtc ggttgtgaaa tccgacccaa
+      421 ggatatcagc cgatacaaga tgaggaaggt gatgttaacc tgtaccgttc gtatgccacc
+      481 aggtgaattg ttgaattacc tcgtcgtgaa gtgtagttct ccattggtta attggggagc
+      541 tgcgttttct tctccagcgc tgttagtgaa agaagactgt caagatatga taactatctt
+      601 agggaaaggg aagatagaat catctggagt tgcaggtagt gattgtacca aatcattcag
+      661 cagattcgtg aagttgggct ctggcgttac ccaaactcag catctatatg taatattata
+      721 tacaagtgtt agtatgaagt ctgttttaga gcataggatg tatgttgaag tgtaactttg
+      781 tttattgtga taaattgtac aatatgaaga acatgactat cttatgaaga acaagaataa
+      841 ttgtatttga tttaaaaact ccgcgcagcg gtatgttatg ttgtttgtgt tgacttatat
+      901 gcccttcatt taatgagttg taatgacaac tatatccttt atgacactat ttgatcccgg
+      961 gatgagctgg cacggggctt agtatt
+//
+
+LOCUS       NC_040747               1010 bp    DNA     circular VRL 13-SEP-2019
+DEFINITION  Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment DNA-R,
+            complete sequence.
+ACCESSION   NC_040747
+VERSION     NC_040747.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cow vetch latent virus
+  ORGANISM  Cow vetch latent virus
+            Viruses; Nanoviridae; unclassified Nanoviridae.
+REFERENCE   1  (bases 1 to 1010)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Nanovirus-alphasatellite complex identified in Vicia cracca in the
+            Rhone delta river region of France
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1010)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1010)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2017) UMR BGPI, INRA, Cirad TA A-54/K Campus
+            International de Baillarguet, Montpellier 34398, France
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MF535450.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1010
+                     /organism="Cow vetch latent virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nano_VcLV_Sambuc_2010"
+                     /isolation_source="host leaves"
+                     /host="Vicia cracca"
+                     /db_xref="taxon:2056780"
+                     /segment="DNA R"
+                     /country="France: Rhone delta region, Le Sambuc"
+                     /lat_lon="43.51 N 4.73 E"
+                     /collection_date="10-Jun-2010"
+     stem_loop       join(992..1010,1..12)
+     misc_feature    join(1004..1010,1..2)
+                     /note="conserved nonanucleotide at replication origin"
+     gene            106..966
+                     /gene="M-Rep"
+                     /locus_tag="F2P95_sRgp1"
+                     /function="replication origin binding and cleavage,
+                     site-specific endonuclease, nucleotidyltransferase,
+                     helicase"
+                     /db_xref="GeneID:41704224"
+     CDS             106..966
+                     /gene="M-Rep"
+                     /locus_tag="F2P95_sRgp1"
+                     /codon_start=1
+                     /product="master replication initiator protein"
+                     /protein_id="YP_009553298.1"
+                     /db_xref="GeneID:41704224"
+                     /translation="MARQVICWCFTLNNPLSLLSLHESMKYLVYQREQGESGNIHFQG
+                     YIEMKKRSSIAAMKKLIPGAHFEKRRGTQAEARAYAMKEDSRIEGPWEFGEFILTVED
+                     KLREVMQDMKNTGKRPIEYIEDCCNTYDKSAATLREFRGELLKKRAVETWELQRKPWM
+                     DQVDTLLEQPDRRRIIWVYGPLGGEGKTSYAKHLVKTRDAFYTTGGKTADIAFRWDHQ
+                     PLVLFDFPRSFEEYVNYGVMEQLKNGIIQSGKYQSVIKYCNYVEVIAFANFTPRSGMF
+                     SEDRIVIVYT"
+ORIGIN      
+        1 acccccgtgc caggatcagc ggagtcagca cgtgaccctc acatgaccac ttaagtctat
+       61 atatatgttc catatgtgtt gtaatatttt atcattttat aaaatatggc tcgtcaagtt
+      121 atctgttggt gttttactct aaataatcct ctctctcttc tctctcttca tgaatcaatg
+      181 aagtaccttg tttatcaaag agaacaaggt gaatctggaa atatccattt ccagggttat
+      241 attgaaatga agaaacgttc atccattgct gcgatgaaga aacttatccc cggtgctcac
+      301 tttgagaaga gaagaggtac tcaagctgaa gccagagctt acgccatgaa ggaagattca
+      361 agaattgaag gtccatggga atttggtgag ttcatactca ccgttgaaga caaactcaga
+      421 gaagtcatgc aagacatgaa gaacacaggt aaaagaccca tagagtacat agaggattgt
+      481 tgtaacacat atgacaaatc tgcagctaca ctcagagagt ttagaggaga gctattaaag
+      541 aaacgtgcag ttgaaacgtg ggagttgcag aggaagccat ggatggacca ggtagatacc
+      601 ttgcttgaac aaccagatag aagaagaatc atttgggtat atggcccact cggtggagaa
+      661 gggaaaacct cttacgctaa gcatctcgta aagacgcgag atgctttcta cactacaggt
+      721 ggaaagacag ccgacatagc ttttcgttgg gaccaccagc cacttgtgtt atttgacttt
+      781 cctagaagct tcgaggagta tgtgaattac ggtgtaatgg aacaattaaa gaatgggatt
+      841 attcaatcag ggaaatatca aagtgtaatt aaatattgta actacgtgga agtaattgct
+      901 tttgccaatt ttactccgcg cagcggtatg tttagtgagg ataggattgt aattgtgtat
+      961 acatgaggca ctatttgatc ccgcgatgag ctggcacggg gcttagtatt
+//
+
+LOCUS       NC_040746                985 bp    DNA     circular VRL 13-SEP-2019
+DEFINITION  Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment DNA-N,
+            complete sequence.
+ACCESSION   NC_040746
+VERSION     NC_040746.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cow vetch latent virus
+  ORGANISM  Cow vetch latent virus
+            Viruses; Nanoviridae; unclassified Nanoviridae.
+REFERENCE   1  (bases 1 to 985)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Nanovirus-alphasatellite complex identified in Vicia cracca in the
+            Rhone delta river region of France
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 985)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 985)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2017) UMR BGPI, INRA, Cirad TA A-54/K Campus
+            International de Baillarguet, Montpellier 34398, France
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MF535449.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..985
+                     /organism="Cow vetch latent virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nano_VcLV_Sambuc_2010"
+                     /isolation_source="host leaves"
+                     /host="Vicia cracca"
+                     /db_xref="taxon:2056780"
+                     /segment="DNA N"
+                     /country="France: Rhone delta region, Le Sambuc"
+                     /lat_lon="43.51 N 4.73 E"
+                     /collection_date="10-Jun-2010"
+     stem_loop       join(967..985,1..12)
+     misc_feature    join(979..985,1..2)
+                     /note="conserved nonanucleotide at replication origin"
+     gene            317..772
+                     /gene="NSP"
+                     /locus_tag="F2P95_sNgp1"
+                     /db_xref="GeneID:41704223"
+     CDS             317..772
+                     /gene="NSP"
+                     /locus_tag="F2P95_sNgp1"
+                     /codon_start=1
+                     /product="nuclear shuttle protein"
+                     /protein_id="YP_009553297.1"
+                     /db_xref="GeneID:41704223"
+                     /translation="MAEWFSSPLKTCTHVCDFPSLAATPQQEIWCCDGMKDKLNDAGK
+                     VLLVSCSVSFNGSFYGANRNVRGQLQLSMMAGVLRPIGFLPIGGYLYHNDYGYFQGQG
+                     IFNLDIESQYLKKDEDYTRLFVVTILNENGLDSGCDMKVFVVHNLRIKV"
+ORIGIN      
+        1 acccccgtgc caggatcagc ggagtcattt aaaatacatc caagccgtta gatggggggg
+       61 acgcgtggac gatcaggatc tgtgattcgt gaagcgaatc tgacggaaga tcgtacactt
+      121 atactttacg cgtgtcagac atatgcaagt gggcattatt ataatgcgtt tactttccac
+      181 gcgttttgct tttttagtgg attacagctg tatttgcttc gtctcgaagg aacctctatt
+      241 cgaatctttt cgaggaagct tcgttccatt ggtttataaa taagacggct gtcttcttca
+      301 aagcacacgc atagccatgg ctgaatggtt ttcaagtcct ctcaagacgt gtacacacgt
+      361 ttgtgatttt ccctctcttg ctgcaacccc gcaacaagaa atatggtgtt gtgatggtat
+      421 gaaggataaa ctgaatgacg cagggaaggt actgcttgtt agttgcagtg taagtttcaa
+      481 cgggagcttc tatggagcta atcgtaatgt tcgtggccag ttgcagctgt cgatgatggc
+      541 aggtgttctg cgacctattg gatttcttcc aataggtgga tatctctatc ataacgacta
+      601 tggctatttc cagggacaag gtatatttaa tctggatatt gaatcccagt atctgaagaa
+      661 agacgaagat tacactaggt tgtttgttgt aaccattctc aacgagaatg gattagattc
+      721 aggatgtgac atgaaagtat ttgtagttca taatcttcgt atcaaggtgt aattagataa
+      781 tttgtaatat aatgaataat attattatgt tttaatgcta ttgttccata aactccgcgc
+      841 agcggtgtgt cttaatctca ttaattaata ttgctaatat ttagttcatt aggcccaata
+      901 gagataggcc caatatgttt agtattcaat tgatatcaaa taacactatt tgatcccggg
+      961 atgagctggc acggggctta gtatt
+//
+
+LOCUS       NC_040745                971 bp    DNA     circular VRL 13-SEP-2019
+DEFINITION  Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment DNA-M,
+            complete sequence.
+ACCESSION   NC_040745
+VERSION     NC_040745.1
+DBLINK      BioProject: PRJNA485481
+KEYWORDS    RefSeq.
+SOURCE      Cow vetch latent virus
+  ORGANISM  Cow vetch latent virus
+            Viruses; Nanoviridae; unclassified Nanoviridae.
+REFERENCE   1  (bases 1 to 971)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Nanovirus-alphasatellite complex identified in Vicia cracca in the
+            Rhone delta river region of France
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 971)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 971)
+  AUTHORS   Gallet,R., Kraberger,S., Filloux,D., Galzi,S., Fontes,H.,
+            Martin,D.P., Varsani,A. and Roumagnac,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2017) UMR BGPI, INRA, Cirad TA A-54/K Campus
+            International de Baillarguet, Montpellier 34398, France
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to MF535448.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..971
+                     /organism="Cow vetch latent virus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nano_VcLV_Sambuc_2010"
+                     /isolation_source="host leaves"
+                     /host="Vicia cracca"
+                     /db_xref="taxon:2056780"
+                     /segment="DNA M"
+                     /country="France: Rhone delta region, Le Sambuc"
+                     /lat_lon="43.51 N 4.73 E"
+                     /collection_date="10-Jun-2010"
+     stem_loop       join(953..971,1..12)
+     misc_feature    join(965..971,1..2)
+                     /note="conserved nonanucleotide at replication origin"
+     gene            310..657
+                     /gene="MP"
+                     /locus_tag="F2P95_sMgp1"
+                     /db_xref="GeneID:41704222"
+     CDS             310..657
+                     /gene="MP"
+                     /locus_tag="F2P95_sMgp1"
+                     /codon_start=1
+                     /product="movement protein"
+                     /protein_id="YP_009553296.1"
+                     /db_xref="GeneID:41704222"
+                     /translation="MVDPDYYQGYQDVGMEDSEKRRQALYIIGIVLLIMVCIVVLWVC
+                     IMCACFIPGFIKKTLEAWLSSSSLMKRKVASTLTRTPFEDTGPERERNWDARRSSNPV
+                     GVSNPPVSGGVFS"
+ORIGIN      
+        1 acccccgtgc caggatcagc ggagtcatga cgtggctcta actgtagata gtggatggtg
+       61 gaccccttac tccactaact caaaacgcac tgaatgtaga cattatactt tgcttcgttc
+      121 cgaagcaaag taaagaataa taatggccga cagctacttt accccatgtg cgttacttta
+      181 aatgaatggt tcacaatgat caacagcttt ggctttcaga agaagcttgc attcattcgt
+      241 tcataaatac gcaacactat tgaaccaatt gtttaatcgt ctagttgttg ggaactgctg
+      301 aagacattaa tggtggatcc agattattat caaggctatc aagacgtcgg tatggaagat
+      361 tcagagaaga gacgacaagc gttatatatt attggtattg tgctgttaat tatggtatgc
+      421 atcgtcgttc tctgggtttg tattatgtgt gcgtgtttta ttcctggatt tattaagaag
+      481 acgttagagg cgtggttaag ttcttcatcg ttgatgaaga ggaaggttgc gtctacatta
+      541 acaagaactc cgtttgaaga tacaggtcct gaaagagaga ggaattggga tgctcggcgt
+      601 tcctcaaacc cagttggtgt atcaaatcct ccagttagcg gtggagtttt tagttagaag
+      661 tttgttcttg tgtaatgttc aacaatactg taatagagat ttgggatata ttattttaat
+      721 aatatagcgt tatgtatgtg ttgttgtgtt tttatttccg ttgtctgtag ataaacaatg
+      781 aagaagacaa ctatagacac taatggcaat aattgtaatt acttcccact ttcatactac
+      841 tccgcgcagc ggtgtggatc agttcaagag gcctaggaag gcccaataga gataagccca
+      901 ataaattata ttgtcttatg atcaaataac actatttgat cccgggatga gctggcacgg
+      961 ggcttagtat t
+//
